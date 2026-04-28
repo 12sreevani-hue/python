@@ -1,0 +1,4 @@
+from datetime import date
+a=date(2004,9,12)
+b=date(2026,4,28)
+print("No of days i can lived : ",(b-a))
