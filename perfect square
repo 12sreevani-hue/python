@@ -1,0 +1,6 @@
+num=int(input("enter the number"))
+a=num**0.5
+if a%1==0:
+    print(" true")
+else:
+    print("false")
