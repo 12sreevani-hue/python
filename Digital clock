@@ -16,7 +16,7 @@ while True:
         m=0
         s=0
         h=h+1
-        h==13
+    if h==13:
         s=0
         m=0
         h=0
