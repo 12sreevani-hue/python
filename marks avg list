@@ -1,0 +1,5 @@
+names=["vani","raju","likki","satvik","deekshu"]
+marks=[[20,30,40],[44,55,66],[30,40,20],[99,57,45],[33,55,88]]
+for i in range (5):
+    a=sum(marks[i])/3
+    print("{}.{}  average scored the marks{} ".format(i+1,names[i],a))
